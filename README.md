@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Linux-Redhat, CCNA, Flutter and IOT Advance**
 
-- 💬 Ask me about **Arduino| ESP32/8266 | Networking**
+- 💬 Ask me about **Arduino | ESP32/8266 | Networking**
 
 - 📫 How to reach me **chamaradilshan2428@gmail.com**
 
